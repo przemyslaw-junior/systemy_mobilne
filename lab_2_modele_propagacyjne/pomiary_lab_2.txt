@@ -1,19 +1,19 @@
-wewnątrz: 5m odległość
-kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -50 dBm
-kanała 48, częstotliwość - 5240 Mhz, szerokość kanału 40 Mhz, RSSI - -59 dBm
-kanała 48, częstotliwość - 5240 Mhz, szerokość kanału 40 Mhz, RSSI - -49 dBm
+indoors: 5m distance
+channel 1, frequency - 2412 MHz, channel width 20 MHz, RSSI - -50 dBm
+channel 48, frequency - 5240 MHz, channel width 40 MHz, RSSI - -59 dBm
+channel 48, frequency - 5240 MHz, channel width 40 MHz, RSSI - -49 dBm
 
-za ścianą: 3m odległość
-kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -59 dBm
-kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -62 dBm
-kanała 48, częstotliwość - 5240 Mhz, szerokość kanału 40 Mhz, RSSI - -55 dBm
+behind the wall: 3m distance
+channel 1, frequency - 2412 MHz, channel width 20 MHz, RSSI - -59 dBm
+channel 1, frequency - 2412 MHz, channel width 20 MHz, RSSI - -62 dBm
+channel 48, frequency - 5240 MHz, channel width 40 MHz, RSSI - -55 dBm
 
-piętro: 6m odległość
-kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -72 dBm
-kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -70 dBm
-kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -67 dBm
+between floors: 6m distance
+channel 1, frequency - 2412 MHz, channel width 20 MHz, RSSI - -72 dBm
+channel 1, frequency - 2412 MHz, channel width 20 MHz, RSSI - -70 dBm
+channel 1, frequency - 2412 MHz, channel width 20 MHz, RSSI - -67 dBm
 
-na zewnątrz: 20m odległość
-kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -85 dBm
-kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -87 dBm
-kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -86 dBm
+outdoors: 20m distance
+channel 1, frequency - 2412 MHz, channel width 20 MHz, RSSI - -85 dBm
+channel 1, frequency - 2412 MHz, channel width 20 MHz, RSSI - -87 dBm
+channel 1, frequency - 2412 MHz, channel width 20 MHz, RSSI - -86 dBm
