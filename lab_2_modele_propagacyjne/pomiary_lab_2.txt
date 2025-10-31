@@ -1,0 +1,19 @@
+wewnątrz: 5m odległość
+kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -50 dBm
+kanała 48, częstotliwość - 5240 Mhz, szerokość kanału 40 Mhz, RSSI - -59 dBm
+kanała 48, częstotliwość - 5240 Mhz, szerokość kanału 40 Mhz, RSSI - -49 dBm
+
+za ścianą: 3m odległość
+kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -59 dBm
+kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -62 dBm
+kanała 48, częstotliwość - 5240 Mhz, szerokość kanału 40 Mhz, RSSI - -55 dBm
+
+piętro: 6m odległość
+kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -72 dBm
+kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -70 dBm
+kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -67 dBm
+
+na zewnątrz: 20m odległość
+kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -85 dBm
+kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -87 dBm
+kanała 1, częstotliwość - 2412 Mhz, szerokość kanału 20 Mhz, RSSI - -86 dBm
